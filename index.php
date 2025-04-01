@@ -166,7 +166,7 @@ $result = $conn->query($sql);
                 <div class="product-offer mb-30" style="height: 200px;">
                     <img class="img-fluid" src="img/banner/bricks.jpg" alt="">
                     <div class="offer-text">
-                        <h6 class="text-white text-uppercase">Save 20%</h6>
+                        <h6 class="text-white text-uppercase">Best Price</h6>
                         <h3 class="text-white mb-3">Bricks</h3>
                         <a href="#" class="btn btn-primaryy">Enquire</a>
                     </div>
@@ -304,7 +304,7 @@ if ($result->num_rows > 0) {
                 <div class="product-offer mb-30" style="height: 350px;">
                     <img class="img-fluid" src="img/banner/tiles (2).jpg" alt="">
                     <div class="offer-text">
-                        <h6 class="text-white text-uppercase">Save 20%</h6>
+                        <h6 class="text-white text-uppercase">Best Price</h6>
                         <h3 class="text-white mb-3">TILES</h3>
                         <a href="#" class="btn btn-primaryy">Enquire Now</a>
                     </div>
